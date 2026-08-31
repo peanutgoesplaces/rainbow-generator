@@ -1,0 +1,16 @@
+# Environment Variables / Credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Build / Distribution
+build/
+*.spec
+
+# Temporary Files
+*.log
