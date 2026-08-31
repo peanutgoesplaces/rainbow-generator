@@ -7,15 +7,15 @@ creates cigarette orders based on WinePOS data.
 
 ### Inventory Dashboard
 
-![Rainbow Order Generator Main](screenshots/Main.png)
+![Rainbow Order Generator Main](screenshots/main.png)
 
 ### Order Generator
 
-![Rainbow Generator Order Window](screenshots/Order Generator.png)
+![Rainbow Generator Order Window](screenshots/order_generator.png)
 
 ### Full Inventory
 
-![Rainbow Generator Full Inventory](screenshots/Load Full Inventory.png)
+![Rainbow Generator Full Inventory](screenshots/load_full_inventory.png)
 
 ## Overview
 
