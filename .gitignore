@@ -14,3 +14,8 @@ build/
 
 # Temporary Files
 *.log
+
+# Generated Files
+display_df.csv
+offset.csv
+order_df
